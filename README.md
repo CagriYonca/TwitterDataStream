@@ -72,3 +72,6 @@ Now we have our tweet data here. You can use any tool or processing method you w
 ![code-10](https://miro.medium.com/max/700/1*s295-MJy6upbj78hNkXkgA.png)
 <br/><br/>
 # Conclusion
+Collecting data and preparing data pipelines are really important jobs these days. For a data engineer, data streaming is one of the most required skills to prepare data to work on it. There is a lot of different data API other than Twitter, such as CoinMarketCap for cryptocurrency, Facebook for FB posts, YouTube for YT videos. I’ll try to use and explain different APIs in the next weeks so see you all next time 🤞
+<br/><br/>
+Medium: https://cagriyonca.medium.com/fetching-data-from-twitter-to-mongodb-9cbf55a24361
